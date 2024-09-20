@@ -1,0 +1,20 @@
+body{
+    font-size: 1.2rem;
+}
+
+.img-tokyo{
+    width: 26rem;
+}
+
+.acomodacao__descricao{
+    text-align: justify;
+}
+
+.destinos__item--descricao--blog{
+    text-align: justify;
+}
+
+.banner-tokyo{
+    margin: auto;
+    width: 53rem;
+}
