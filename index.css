@@ -54,6 +54,10 @@
     margin: 110px auto;
 }
 
+body{
+    background-color: #9bbdfcc7;
+}
+
 .container {
     max-width: 1200px;
     margin: 0 auto;
